@@ -15,7 +15,7 @@
 <a href="https://durga057.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/durgaprasad-suravarapu/">
+<a href="https://www.linkedin.com/in/durgaprasadsuravarapu/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:durgaprasadsuravarapu42@gmail.com">
