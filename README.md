@@ -2,11 +2,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:8B5CF6&height=230&section=header&text=Durga%20Prasad&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ServiceNow%20Developer%20%7C%20Java%20%26%20Backend%20Developer&descAlignY=60&descSize=18" width="100%" alt="Durga Prasad GitHub Banner"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=ServiceNow+Developer;Java+%26+Backend+Developer;Full+Stack+Web+Developer;Computer+Science+Engineering+Student;Building+Solutions+for+Real-World+Problems" alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:4F46E5,100:8B5CF6&amp;height=230&amp;section=header&amp;text=Durga%20Prasad&amp;fontSize=55&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38" width="100%" alt="Durga Prasad GitHub Banner"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=21&amp;pause=1000&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=ServiceNow+Developer;Java+%26amp%3B+Backend+Developer;Full+Stack+Developer;Computer+Science+Engineering+Student" alt="Typing Animation"/>
+
+</div>
 
 <a href="https://durga057.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
