@@ -309,11 +309,31 @@ Exploring machine learning pipelines, predictive models, computer vision, and th
 ---
 ---
 
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=durga057&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" width="100%"/>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durga057)
+
+</div>
+<div align="center">
+
+<a href="https://github.com/durga057?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+</a>
+<a href="https://github.com/durga057?tab=stars">
+<img src="https://img.shields.io/badge/Starred%20Projects-Discover-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Starred Projects"/>
+</a>
+<a href="https://github.com/durga057?tab=followers">
+<img src="https://img.shields.io/badge/Developer%20Community-Connect-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/durga057">
+<img src="https://img.shields.io/badge/Explore-My%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub Profile"/>
+</a>
 
 </div>
 
@@ -323,7 +343,15 @@ Exploring machine learning pipelines, predictive models, computer vision, and th
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=durga057&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
+<a href="https://github.com/durga057">
+<img src="https://img.shields.io/badge/Contribution%20History-View%20on%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Contribution History"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/durga057">
+**View my contribution calendar, coding activity, and recent commits on GitHub →**
+</a>
 
 </div>
 
