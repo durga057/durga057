@@ -102,16 +102,66 @@ My approach is simple: **learn continuously, build consistently, and solve real-
 
 ---
 
+---
+
+## 🌐 Global Certifications 
 ## ☁️ ServiceNow Certifications
 
 <div align="center">
 
-| Certification | Status / Date |
-|:---|:---|
-| ServiceNow Certified System Administrator (CSA) | July 2026 |
-| ServiceNow Certified Application Developer (CAD) | August 2026 |
+<img src="https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CSA"/>
+
+<img src="https://img.shields.io/badge/ServiceNow-Certified%20Application%20Developer-293E40?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CAD"/>
+
+<br/><br/>
+
+| Certification | Earned |
+|---|---|
+| Certified System Administrator (CSA) | July 15, 2026 |
+| Certified Application Developer (CAD) | August 2026 |
 
 </div>
+
+
+
+<div align="center">
+
+### 🛡️ Fortinet Cybersecurity Certifications
+
+<img src="https://img.shields.io/badge/FORTINET-Global%20Certifications-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet Global Certifications"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NSE%201-Cybersecurity-14B8A6?style=for-the-badge&logo=fortinet&logoColor=white" alt="NSE 1 Cybersecurity"/>
+<img src="https://img.shields.io/badge/NSE%202-Cybersecurity-0EA5E9?style=for-the-badge&logo=fortinet&logoColor=white" alt="NSE 2 Cybersecurity"/>
+<img src="https://img.shields.io/badge/NSE%203-Cybersecurity-3B82F6?style=for-the-badge&logo=fortinet&logoColor=white" alt="NSE 3 Cybersecurity"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/NSE%204-FortiOS-DC2626?style=for-the-badge&logo=fortinet&logoColor=white" alt="NSE 4 FortiOS"/>
+<img src="https://img.shields.io/badge/NSE%205-Cloud%20Security-B91C1C?style=for-the-badge&logo=fortinet&logoColor=white" alt="NSE 5 Cloud Security"/>
+
+</div>
+
+### 📜 Certification Details
+
+| Certification | Earned On | Expires On |
+|---|---|---|
+| <img src="https://img.shields.io/badge/NSE--1-Certified-14B8A6?style=flat-square" alt="NSE 1"/> Cybersecurity | Sep 30, 2025 | Jul 4, 2028 |
+| <img src="https://img.shields.io/badge/NSE--2-Certified-0EA5E9?style=flat-square" alt="NSE 2"/> Cybersecurity | Sep 30, 2025 | Jul 4, 2028 |
+| <img src="https://img.shields.io/badge/NSE--3-Certified-3B82F6?style=flat-square" alt="NSE 3"/> Cybersecurity | Sep 30, 2025 | Jul 4, 2028 |
+| <img src="https://img.shields.io/badge/NSE--4-Certified-DC2626?style=flat-square" alt="NSE 4"/> FortiOS | Feb 26, 2026 | Jul 4, 2028 |
+| <img src="https://img.shields.io/badge/NSE--5-Certified-B91C1C?style=flat-square" alt="NSE 5"/> Cloud Security | Jul 4, 2026 | Jul 4, 2028 |
+
+### 🔐 Areas of Knowledge
+
+<p align="center">
+<img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-8B5CF6?style=flat-square" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Network-Security-2563EB?style=flat-square" alt="Network Security"/>
+<img src="https://img.shields.io/badge/FortiOS-Security-DC2626?style=flat-square" alt="FortiOS"/>
+<img src="https://img.shields.io/badge/Cloud-Security-0891B2?style=flat-square" alt="Cloud Security"/>
+</p>
+
 
 I am developing my ServiceNow expertise alongside my software engineering skills, focusing on platform fundamentals, application development, workflow automation, and enterprise application solutions.
 
