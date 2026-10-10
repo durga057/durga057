@@ -307,12 +307,13 @@ Exploring machine learning pipelines, predictive models, computer vision, and th
 </div>
 
 ---
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=durga057&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=durga057&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
@@ -322,10 +323,9 @@ Exploring machine learning pipelines, predictive models, computer vision, and th
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=durga057&bg_color=0f172a&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=durga057&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
 
 </div>
-
 
 ---
 
@@ -333,9 +333,12 @@ Exploring machine learning pipelines, predictive models, computer vision, and th
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/durga057/durga057/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/durga057/durga057/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
+
+
+
 
 > **Setup note:** The contribution snake requires a GitHub Actions workflow that generates the SVG and publishes it to the `output` branch.
 
