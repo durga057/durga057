@@ -447,6 +447,7 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/durga057/durga057/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/durga057/durga057/tree/master/0198-house-robber) |
 | [1143-longest-common-subsequence](https://github.com/durga057/durga057/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -460,4 +461,8 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/durga057/durga057/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/durga057/durga057/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
