@@ -446,9 +446,18 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/durga057/durga057/tree/master/0070-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/durga057/durga057/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/durga057/durga057/tree/master/1143-longest-common-subsequence) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/durga057/durga057/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/durga057/durga057/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
