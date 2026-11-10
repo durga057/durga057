@@ -436,3 +436,19 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:8B5CF6&height=110&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/durga057/durga057/tree/master/1143-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/durga057/durga057/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/durga057/durga057/tree/master/1143-longest-common-subsequence) |
+<!---LeetCode Topics End-->
