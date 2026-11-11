@@ -446,6 +446,7 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/durga057/durga057/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/durga057/durga057/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/durga057/durga057/tree/master/0198-house-robber) |
 | [1143-longest-common-subsequence](https://github.com/durga057/durga057/tree/master/1143-longest-common-subsequence) |
@@ -464,5 +465,10 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/durga057/durga057/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/durga057/durga057/tree/master/0198-house-robber) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/durga057/durga057/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
