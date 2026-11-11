@@ -469,8 +469,17 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 | ------- |
 | [0064-minimum-path-sum](https://github.com/durga057/durga057/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/durga057/durga057/tree/master/0198-house-robber) |
+| [0303-range-sum-query-immutable](https://github.com/durga057/durga057/tree/master/0303-range-sum-query-immutable) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/durga057/durga057/tree/master/0064-minimum-path-sum) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/durga057/durga057/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/durga057/durga057/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
