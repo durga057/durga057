@@ -465,6 +465,7 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/durga057/durga057/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/durga057/durga057/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/durga057/durga057/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/durga057/durga057/tree/master/0204-count-primes) |
@@ -531,4 +532,8 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/durga057/durga057/tree/master/0392-is-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/durga057/durga057/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
