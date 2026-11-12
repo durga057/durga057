@@ -464,6 +464,7 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 | ------- |
 | [0062-unique-paths](https://github.com/durga057/durga057/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/durga057/durga057/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/durga057/durga057/tree/master/0204-count-primes) |
 ## Memoization
 |  |
 | ------- |
@@ -475,6 +476,7 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 | [0063-unique-paths-ii](https://github.com/durga057/durga057/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/durga057/durga057/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/durga057/durga057/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/durga057/durga057/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/durga057/durga057/tree/master/0303-range-sum-query-immutable) |
 ## Matrix
 |  |
@@ -497,4 +499,24 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/durga057/durga057/tree/master/0053-maximum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/durga057/durga057/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/durga057/durga057/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/durga057/durga057/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/durga057/durga057/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/durga057/durga057/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
