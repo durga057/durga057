@@ -447,6 +447,7 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/durga057/durga057/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/durga057/durga057/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/durga057/durga057/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/durga057/durga057/tree/master/0064-minimum-path-sum) |
@@ -470,6 +471,7 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/durga057/durga057/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/durga057/durga057/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/durga057/durga057/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/durga057/durga057/tree/master/0198-house-robber) |
@@ -491,4 +493,8 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/durga057/durga057/tree/master/0062-unique-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/durga057/durga057/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
