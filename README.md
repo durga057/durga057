@@ -448,6 +448,7 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/durga057/durga057/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/durga057/durga057/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/durga057/durga057/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/durga057/durga057/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/durga057/durga057/tree/master/0064-minimum-path-sum) |
@@ -473,6 +474,7 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/durga057/durga057/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/durga057/durga057/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/durga057/durga057/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/durga057/durga057/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/durga057/durga057/tree/master/0198-house-robber) |
@@ -519,4 +521,8 @@ If you're working on an interesting project, exploring ServiceNow, or discussing
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/durga057/durga057/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/durga057/durga057/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
